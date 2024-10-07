@@ -4,7 +4,7 @@ boshui ubiquitous ubiquitous ubiquitous ubiquitour ubiquitous ubiquitous ubiquit
 
 i was using ubiquitous 
 
-i was using git restror example.txt to restore this document, because after i updated document and ran the command git status, it showed that the document is modified but not commited. 
+
 
 
 
